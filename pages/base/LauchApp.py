@@ -6,7 +6,6 @@ class LaunchApp:
         desired_caps = {'platformName': 'Android',
                         # 'automationName': 'UiAutomator2', 'platformVersion': '13',
                         'deviceName': 'Pixel 6 Pro',
-                        # 'app': '../Downloads/theScore_Apkpure.apk',
                         'resetOnSessionStartOnly': 'true',
                         'appPackage': 'com.fivemobile.thescore',
                         'appActivity': 'com.fivemobile.thescore.ui.MainActivity',
