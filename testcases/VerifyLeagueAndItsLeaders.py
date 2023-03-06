@@ -42,6 +42,6 @@ class testclass:
         LeagueObj.myLeagues()
 
         basePageObj.screenShot("BackToMyLeagues")
-        logObject.info("test completed successfully")
+        logObject.info("testcases completed successfully")
         # TearDown
         driver.quit()
