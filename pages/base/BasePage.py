@@ -1,12 +1,9 @@
 import time
-
 import appium.webdriver.common.appiumby
 from selenium.common.exceptions import ElementNotVisibleException, ElementNotSelectableException, \
     NoSuchElementException
 from selenium.webdriver.support.wait import WebDriverWait
-
 from utilities import log as cl
-
 
 class BasePage:
     log = cl.customLogger()
@@ -43,7 +40,6 @@ class BasePage:
         except:
             self.log.info(
                 "Element not found with LocatorType: " + locatorType + " and with the locatorValue :" + locatorValue)
-
         return element
 
     def clickElement(self, locatorValue, locatorType="id"):
@@ -87,11 +83,10 @@ class BasePage:
 
     def screenShot(self, screenshotName):
         fileName = screenshotName + "_" + (time.strftime("%d_%m_%y_%H_%M_%S")) + ".png"
-        screenshotDirectory = "../screenshots/"
+        screenshotDirectory = "reports/screenshots/"
         screenshotPath = screenshotDirectory + fileName
         try:
             self.driver.save_screenshot(screenshotPath)
             self.log.info("Screenshot save to Path : " + screenshotPath)
-
         except:
             self.log.info("Unable to save Screenshot to the Path : " + screenshotPath)

@@ -15,7 +15,7 @@ verify that you are at correct page and NCAA Football leaders are displayed corr
  Verify that back navigation returns you to the previous page
 -----------------------------------------------------------------------------------------------
 -----------------------Run test----------------------------------------------------------------
-Execute "VerifyLeagueAndItsLeaders.py"
+Execute "python3 /Users/jasmeen/PycharmProjects/theScore/test/VerifyLeagueAndItsLeaders.py"
 -----------------------------------------------------------------------------------------------
 ----------------------Explain automation Framework--------------------------------------------
 "asset" contains apk file used in this test

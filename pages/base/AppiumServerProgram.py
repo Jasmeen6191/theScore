@@ -5,7 +5,6 @@ from utilities import log as cl
 service = AppiumService()
 log = cl.customLogger()
 
-
 class AppiumServerProgram:
     @staticmethod
     def startServer():

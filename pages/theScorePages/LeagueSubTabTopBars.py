@@ -12,10 +12,5 @@ class LeagueSubTabTopBars(BasePage):
     _standings = "STANDINGS"
     _leaders = "LEADERS"
 
-    # def verifyLeagueTitle(self, mySelectedLeague):
-    #     element = self.isDisplayed(mySelectedLeague, "text")
-    #     assert element == True
-    #     print(element)
-
     def clickOnLeaders(self):
         self.clickElement(self._leaders, "text")

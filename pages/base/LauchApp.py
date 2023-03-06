@@ -1,6 +1,5 @@
 from appium import webdriver
 
-
 class LaunchApp:
 
     def theScore(self):
@@ -13,7 +12,6 @@ class LaunchApp:
                         'appActivity': 'com.fivemobile.thescore.ui.MainActivity',
                         "appium:udid": 'emulator-5554'
                         #  'newCommandTimeout': 120, 'adbExecTimeout': 30000
-
                         }
         driver = webdriver.Remote("http://127.0.0.1:4723/wd/hub", desired_caps)
 

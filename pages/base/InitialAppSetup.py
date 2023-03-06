@@ -1,7 +1,5 @@
 import time
-
 from pages.base.BasePage import BasePage
-
 
 class InitialAppSetup(BasePage):
     def __init__(self, driver):
