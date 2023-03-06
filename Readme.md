@@ -32,14 +32,14 @@ Test Automation for theScore App
     This run is completed, please find log file and screenshots in reports directory
    ```
    
-#### Test Scenario
+### Test Scenario
 - Open NCAA Football League,
 - Verify that league page opens correctly.
 - Tap on sub-tab leaders
 - Verify that you are at correct page and NCAA Football leaders are displayed correctly
 - Verify that back navigation returns you to the previous page
  
-#### Explain Automation Framework
+### Explain Automation Framework
 - `assets` contains apk file used in this test
 - There are app `pages` where control elements properties and methods are written for the score app.
 - `base` contains launch app and other required classes to simply the framework
@@ -51,7 +51,7 @@ which is package dependent right now)
 - `utilities` contains logger class
 - `testcases` contains the actual test file which is test data parametrize.
 
-#### Test Run Reports
+### Test Run Reports
 - [Test run Report in the form of Run logs](https://github.com/Jasmeen6191/theScore/blob/main/reports/logReportnew.log)
 - [Test run Screenshots taken after eahc executed test step](https://github.com/Jasmeen6191/theScore/tree/main/reports/screenshots)
 
