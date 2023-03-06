@@ -1,1 +1,59 @@
-02/03/23 02:13:17 PM Thursday - <module> - INFO : App Launched Successfully
+04/03/23 04:26:37 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :WELCOME
+04/03/23 04:26:37 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :WELCOMEis displayed 
+04/03/23 04:26:37 PM Saturday - <module> - INFO : App Launched Successfully
+04/03/23 04:26:37 PM Saturday - <module> - INFO : App Launched Successfully
+04/03/23 04:26:37 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Get Started
+04/03/23 04:26:38 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :Get Started
+04/03/23 04:26:48 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :NHL Hockey
+04/03/23 04:26:48 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :NHL Hockeyis displayed 
+04/03/23 04:26:48 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :NHL Hockey
+04/03/23 04:26:48 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :NHL Hockey
+04/03/23 04:26:49 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Continue
+04/03/23 04:26:49 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :Continue
+04/03/23 04:26:50 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Maybe Later
+04/03/23 04:26:50 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Maybe Lateris displayed 
+04/03/23 04:26:50 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Maybe Later
+04/03/23 04:26:50 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :Maybe Later
+04/03/23 04:26:51 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Toronto Maple Leafs
+04/03/23 04:26:51 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Toronto Maple Leafsis displayed 
+04/03/23 04:26:51 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Toronto Maple Leafs
+04/03/23 04:26:51 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :Toronto Maple Leafs
+04/03/23 04:26:51 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Continue
+04/03/23 04:26:52 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :Continue
+04/03/23 04:26:53 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Done
+04/03/23 04:26:53 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :Done
+04/03/23 04:26:58 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Don’t allow
+04/03/23 04:26:58 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Don’t allowis displayed 
+04/03/23 04:26:58 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Don’t allow
+04/03/23 04:26:58 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :Don’t allow
+04/03/23 04:27:03 PM Saturday - BasePage - INFO : Element found with LocatorType: class with the locatorValue :android.widget.ImageView
+04/03/23 04:27:03 PM Saturday - BasePage - INFO :  Element with LocatorType: class and with the locatorValue :android.widget.ImageViewis displayed 
+04/03/23 04:27:03 PM Saturday - BasePage - INFO : Element found with LocatorType: class with the locatorValue :android.widget.ImageView
+04/03/23 04:27:03 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: class and with the locatorValue :android.widget.ImageView
+04/03/23 04:27:04 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Bet
+04/03/23 04:27:04 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Betis displayed 
+04/03/23 04:27:05 PM Saturday - BasePage - INFO : Screenshot save to Path : ../screenshots/HomePage_04_03_23_16_27_04.png
+04/03/23 04:27:05 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Leagues
+04/03/23 04:27:06 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :Leagues
+04/03/23 04:27:06 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :My Leagues
+04/03/23 04:27:06 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :My Leaguesis displayed 
+04/03/23 04:27:06 PM Saturday - BasePage - INFO : Screenshot save to Path : ../screenshots/MyLeagues_04_03_23_16_27_06.png
+04/03/23 04:27:06 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :NCAA Football
+04/03/23 04:27:06 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :NCAA Footballis displayed 
+04/03/23 04:27:06 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :NCAA Football
+04/03/23 04:27:06 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :NCAA Football
+04/03/23 04:28:07 PM Saturday - BasePage - INFO : Element not found with LocatorType: text and with the locatorValue :My Leagues
+04/03/23 04:28:07 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :My Leagues is not displayed
+04/03/23 04:28:07 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :LEADERS
+04/03/23 04:28:07 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :LEADERS
+04/03/23 04:28:18 PM Saturday - BasePage - INFO : Element found with LocatorType: resource-id with the locatorValue :com.fivemobile.thescore:id/big_leader_name
+04/03/23 04:28:18 PM Saturday - BasePage - INFO :  Element with LocatorType: resource-id and with the locatorValue :com.fivemobile.thescore:id/big_leader_name is not displayed
+04/03/23 04:28:18 PM Saturday - verifyLeaders - INFO : Leaders are present for the league A. Reed
+04/03/23 04:28:18 PM Saturday - verifyLeaders - INFO : Leaders are present for the league C. Williams
+04/03/23 04:28:18 PM Saturday - verifyLeaders - INFO : Leaders are present for the league C. Williams
+04/03/23 04:28:18 PM Saturday - BasePage - INFO : Screenshot save to Path : ../screenshots/Leaders_04_03_23_16_28_18.png
+04/03/23 04:28:19 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :My Leagues
+04/03/23 04:28:19 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :My Leaguesis displayed 
+04/03/23 04:28:19 PM Saturday - BasePage - INFO : Screenshot save to Path : ../screenshots/BackToMyLeagues_04_03_23_16_28_19.png
+04/03/23 04:28:19 PM Saturday - <module> - INFO : test completed successfully
+04/03/23 04:28:19 PM Saturday - <module> - INFO : test completed successfully
